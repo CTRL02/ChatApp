@@ -29,5 +29,5 @@ This project is a simple real-time chat application where users can join chatroo
 ### How SignalR Works:
 SignalR is a library for ASP.NET that allows you to add real-time web functionality to your applications. In this project, we use SignalR to establish a WebSocket connection between the frontend (React) and the backend (.NET). Once the connection is established, the server can send messages to clients in real time.
 
-![Chatroom Screen](.chatroom.png)
-![Waiting Room Screen](.waitingroom.png)
+![Chatroom Screen](chatroom.png)
+![Waiting Room Screen](waitingroom.png)
