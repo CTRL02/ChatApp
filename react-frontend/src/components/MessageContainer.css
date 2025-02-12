@@ -1,0 +1,20 @@
+.message-bubble {
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #007bff; /* Blue color */
+	color: white; /* White text color for better contrast */
+	max-width: 60%;
+	word-wrap: break-word;
+}
+
+.message-content {
+	font-size: 16px;
+}
+
+.message-username {
+	font-size: 12px;
+	color: #d1d1d1; /* Light gray color for the username */
+	text-align: right;
+	margin-top: 5px;
+}
